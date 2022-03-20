@@ -14171,4 +14171,11 @@
     github = "nigelgbanks";
     githubId = 487373;
   };
+  akechishiro = {
+    name = "Samy Lahfa";
+    email = "samy@lahfa.xyz";
+    matrix = "@akechishiro:matrix.org";
+    github = "AkechiShiro";
+    githubId = 14914796 ;
+  };
 }
